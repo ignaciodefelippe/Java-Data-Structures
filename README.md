@@ -30,7 +30,7 @@ Implementación avanzada que combina un **Árbol Binario de Búsqueda (ABB)** co
     * Los identificadores asumen una distribución aleatoria, garantizando un balanceo promedio de **$O(\log n)$**.
 
 ### 2. Árbol Binario de Búsqueda (BST)
-> **Ubicación:** `/Binary-Search-Tree` (Basado en Taller 4)
+> **Ubicación:** `/Binary-Search-Tree`
 
 Implementación de un **Conjunto (Set)** genérico utilizando nodos enlazados dinámicamente.
 
@@ -41,7 +41,7 @@ Implementación de un **Conjunto (Set)** genérico utilizando nodos enlazados di
     * Implementación de un `Iterador<T>` para recorrer la estructura in-order.
 
 ### 3. Lista Doblemente Enlazada
-> **Ubicación:** `/Doubly-Linked-List` (Basado en Taller 3)
+> **Ubicación:** `/Doubly-Linked-List`
 
 Estructura lineal dinámica donde cada nodo mantiene referencias explícitas a su antecesor y sucesor.
 
